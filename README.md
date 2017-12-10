@@ -11,3 +11,5 @@ The following is an analysis of weather in Hawaii. I used matplotlib, SQL Alchem
 - You can find the database engineering process under Notebook/database_engineering.ipynb.
 
 - You can find the analysis under Notebook/climate_analysis.ipynb.
+
+- You can find my climate API under climate_app.py. Run from the command line to make calls that returns data in JSON format. 
